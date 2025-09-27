@@ -1,4 +1,4 @@
-# ViaLegacy+ (UPDATED ViaRewind-Legacy-Support!)
+# ViaLegacy (UPDATED ViaRewind-Legacy-Support!)
 This is very needed for eaglercraft servers in my opinion, So I made it! 
 <br>
 1.8-1.21.5
