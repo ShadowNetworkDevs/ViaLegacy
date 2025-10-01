@@ -3,7 +3,9 @@ This is very needed for eaglercraft servers in my opinion, So I made it!
 <br>
 1.8-1.21.5
 <br>
-The one feature I like about this plugin and regular viarewind legacy support is shift for elytras and fixed ladders.
+Riptide Tridents and Elytra Hud added!
+<br>
+The one feature I like about this plugin and regular viarewind legacy support is shift for elytras and fixed ladders & now riptide tridents.
 <br>
 <br>
 This plugin requires ViaRewind, ViaVersion & ViaBackwards To work! Download them at https://viaversion.com/
